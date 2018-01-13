@@ -1,4 +1,4 @@
-<?php 
+<?php
 	require ('sql_connect.php');
 	$query = "SELECT * FROM players ORDER BY lastDatePlayed DESC";
 	$result = $conn->query($query);

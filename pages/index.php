@@ -3,7 +3,7 @@
 
     if(!isset($_GET['playerId']))
     {
-        header('Location: http://localhost/webAppProject/pages/home.php');
+        header('Location: home.php');
     }
 
     $playerId = $_GET['playerId'];
