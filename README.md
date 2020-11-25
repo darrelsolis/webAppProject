@@ -1,5 +1,5 @@
 # webAppProject
-JQuery Card Battle System - My Version of Hearthstone
+ELEMENTS - A simple duel monster card game based on their elements
 
 IMPORTANT:
 
